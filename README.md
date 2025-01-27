@@ -1,4 +1,5 @@
 ### Hi there 👋
 
-* I'm currently working on data linking and improving/maintaining the open-source linkage software, [splink](https://github.com/moj-analytical-services/splink) at the Ministry of Justice.
-* Until I finally merge my two github accounts, my private github can be found [here](https://github.com/th368).
+* I currently work as a Data Engineer in the Ministry of Justice's Criminal Courts domain, where I design and build ELT pipelines and ensure the robustness of our existing methodologies.  
+* Previously, I was part of the Ministry of Justice's Data Linking team, where I played a key role in improving and maintaining the open-source linkage software [Splink](https://github.com/moj-analytical-services/splink). I also developed extensive data linkage pipelines and infrastructure, leveraging both AWS Glue and DuckDB.
+* 
