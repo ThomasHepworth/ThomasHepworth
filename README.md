@@ -4,8 +4,7 @@ I’m Tom Hepworth, a UK-based data linker and engineer at the Ministry of Justi
 
 I write about record linkage, data engineering and anything else that takes my fancy at https://tomhepworth.dev.
 
-- **Current:** Data Linking, MoJ – focussed on address matching and building out [uk_address_matcher](https://github.com/moj-analytical-services/uk_address_matcher).
-- **Previously:** Data Engineering, MoJ – building ELT pipelines and strengthening data platform foundations.
-- **Earlier:** Core developer of [Splink](https://github.com/moj-analytical-services/splink) – contributing to the open-source linkage library and associated linkage pipelines/infrastructure (including AWS Glue and DuckDB).
+- **Current:** Data Linking, MoJ - focussed on address matching and building out [uk_address_matcher](https://github.com/moj-analytical-services/uk_address_matcher).
+- **Previously:** Data Engineering, MoJ - building ELT pipelines and strengthening data platform foundations and developer on [Splink](https://github.com/moj-analytical-services/splink).
 
 You can also find my shell configuration and dev tooling here: https://github.com/ThomasHepworth/PersonalDevTools/tree/main/shell-configs
