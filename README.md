@@ -1,10 +1,17 @@
 ### Hi there 👋
 
-I’m Tom Hepworth, a UK-based data linker and engineer at the Ministry of Justice. I build tools and infrastructure for entity resolution and record linkage, with a focus on matching systems that work at scale and stand up to real-world data quality issues.
+I’m Tom - a data linker and engineer at the Ministry of Justice.
 
-I write about record linkage, data engineering and anything else that takes my fancy at https://tomhepworth.dev.
+Most of my work is around entity resolution and record linkage: building tools and infrastructure for matching messy real-world data at scale.
 
-- **Current:** Data Linking, MoJ - focussed on address matching and building out [uk_address_matcher](https://github.com/moj-analytical-services/uk_address_matcher).
-- **Previously:** Data Engineering, MoJ - building ELT pipelines and strengthening data platform foundations and developer on [Splink](https://github.com/moj-analytical-services/splink).
+I also write about record linkage, data engineering, and whatever else takes my fancy at  
+👉 https://tomhepworth.dev
 
-You can also find my shell configuration and dev tooling here: https://github.com/ThomasHepworth/PersonalDevTools/tree/main/shell-configs
+**Right now**
+- Data Linking at MoJ - working on address matching and building out [uk_address_matcher](https://github.com/moj-analytical-services/uk_address_matcher)
+
+**Previously**
+- Data Engineering at MoJ - building ELT pipelines, improving data platform foundations, and contributing to [Splink](https://github.com/moj-analytical-services/splink)
+
+You can also find my shell setup and dev tooling here:  
+🔧 https://github.com/ThomasHepworth/PersonalDevTools/tree/main/shell-configs
