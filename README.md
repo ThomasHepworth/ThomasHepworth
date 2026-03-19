@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I’m Tom - a data linker and engineer at the Ministry of Justice.
+I’m Tom - I do data linking and engineering at the Ministry of Justice.
 
-Most of my work is around entity resolution and record linkage: building tools and infrastructure for matching messy real-world data at scale.
+Most of my work is focussed on entity resolution and record linkage: building tools and infrastructure for matching messy real-world data at scale.
 
-I also write about record linkage, data engineering, and whatever else takes my fancy at  
+I also occasionally write about record linkage, data engineering at  
 👉 https://tomhepworth.dev
 
 **Right now**
